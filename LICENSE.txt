@@ -1,0 +1,202 @@
+============================================================
+LUXWEARS — PREMIUM MEN'S BOUTIQUE TEMPLATE
+SOFTWARE LICENSE AGREEMENT
+Version 1.0 — 2026
+============================================================
+
+IMPORTANT — READ CAREFULLY
+
+By purchasing, downloading, or using the Luxwears template
+("the Software"), you agree to be bound by the terms of this
+license. If you do not agree, do not use the Software and
+delete all copies immediately.
+
+------------------------------------------------------------
+1. DEFINITIONS
+------------------------------------------------------------
+
+"The Software" refers to the Luxwears template files,
+including but not limited to:
+  - index.html
+  - luxwears.css
+  - luxwears.js
+  - All documentation files
+  - Any bundled assets
+
+"Licensee" (or "You") means the individual or entity that
+has purchased a valid license.
+
+"End Product" means a website or web application created
+using the Software.
+
+------------------------------------------------------------
+2. LICENSE TIERS
+------------------------------------------------------------
+
+The Software is licensed, not sold. Your rights depend on
+the tier you purchased:
+
+▸ PERSONAL LICENSE
+  - Use on ONE (1) personal project
+  - May modify the source code freely
+  - May NOT use for client or commercial work
+  - May NOT resell, redistribute, or sublicense
+  - Attribution to Luxwears not required
+
+▸ COMMERCIAL LICENSE  ⭐ (Most Popular)
+  - Use on ONE (1) client project
+  - May modify the source code freely
+  - May remove all Luxwears branding
+  - May charge clients for your work
+  - May NOT resell the template itself
+  - May NOT use on more than one client project
+
+▸ EXTENDED LICENSE
+  - Use on UNLIMITED personal AND client projects
+  - May modify the source code freely
+  - May remove all Luxwears branding
+  - May NOT resell, redistribute, or sublicense the
+    Software as a template or theme
+  - May NOT offer the Software on any marketplace
+
+▸ EXCLUSIVE LICENSE
+  - Same rights as Extended License, PLUS:
+  - The Software is removed from public sale
+  - No other buyer will be granted a license
+  - You become the sole owner of the codebase
+  - May resell as part of a larger product or service
+  - Full source ownership transferred upon purchase
+
+------------------------------------------------------------
+3. PERMITTED USE
+------------------------------------------------------------
+
+You MAY:
+  ✓ Modify the source code for your own or client use
+  ✓ Combine with other software
+  ✓ Deploy to unlimited hosting environments (within your tier)
+  ✓ Charge clients for work done using the Software
+    (Commercial, Extended, Exclusive tiers only)
+
+------------------------------------------------------------
+4. PROHIBITED USE
+------------------------------------------------------------
+
+You MAY NOT:
+  ✗ Resell, redistribute, or share the Software as-is
+  ✗ Offer the Software on marketplaces (ThemeForest, Gumroad,
+    Creative Market, Selar, or similar)
+  ✗ Include the Software in any "template pack" or bundle
+  ✗ Sublicense, lease, or rent the Software
+  ✗ Claim authorship of the original codebase
+  ✗ Use the Software for illegal or harmful purposes
+  ✗ Share your download link with others
+
+------------------------------------------------------------
+5. OWNERSHIP
+------------------------------------------------------------
+
+The Software remains the intellectual property of the
+original author. This license grants usage rights only.
+
+All copyright notices and licensing information must remain
+intact in the source files, unless you hold a Commercial,
+Extended, or Exclusive license.
+
+------------------------------------------------------------
+6. REFUNDS
+------------------------------------------------------------
+
+Due to the digital nature of the Software, refunds are
+offered only in the following cases:
+
+  - The Software is fundamentally broken and cannot be fixed
+    within 14 days of purchase
+  - You were charged twice for the same order
+  - The Software does not match the advertised description
+
+Refunds are NOT offered for:
+  - Change of mind
+  - Inability to use the Software due to lack of technical skill
+  - Requesting features not advertised
+
+------------------------------------------------------------
+7. SUPPORT
+------------------------------------------------------------
+
+Support is provided for 30 days from purchase and covers:
+  - Setup assistance
+  - Bug fixes for documented issues
+  - Questions about customization
+
+Support does NOT cover:
+  - Custom development
+  - Third-party integrations
+  - Server or hosting issues
+  - Modifications you or others made to the code
+
+Extended support may be purchased separately.
+
+------------------------------------------------------------
+8. UPDATES
+------------------------------------------------------------
+
+Free updates are provided for 6 months from purchase via
+your original download link.
+
+After 6 months, you may continue using your version
+indefinitely. New versions may be offered at a discount.
+
+------------------------------------------------------------
+9. WARRANTY DISCLAIMER
+------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+------------------------------------------------------------
+10. LIMITATION OF LIABILITY
+------------------------------------------------------------
+
+The author's total liability under this license shall not
+exceed the amount you paid for the Software.
+
+------------------------------------------------------------
+11. TERMINATION
+------------------------------------------------------------
+
+This license is effective until terminated. Your rights
+under this license will terminate automatically without
+notice if you fail to comply with any term.
+
+Upon termination, you must destroy all copies of the
+Software and cease all use.
+
+------------------------------------------------------------
+12. GOVERNING LAW
+------------------------------------------------------------
+
+This license shall be governed by the laws of the Federal
+Republic of Nigeria, without regard to its conflict of
+law provisions.
+
+------------------------------------------------------------
+13. CONTACT
+------------------------------------------------------------
+
+For licensing questions, custom licenses, or exclusive
+purchases, contact:
+
+📧 williamsnolan12123@gmail.com or https://wa.me/+2349043249252
+
+------------------------------------------------------------
+© 2026 Luxwears. All rights reserved.
+============================================================
